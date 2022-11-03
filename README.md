@@ -1,6 +1,6 @@
 # KMEANS Clustering Algorithnm
 
-### kmeans(k, n, data)
+### `kmeans(k, n, data)`
 
 #### Parameters 
 k - the amount of clusters to create
